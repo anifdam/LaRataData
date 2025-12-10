@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-<img src="images/Rata Data.png" width="600"/>
+<img src="images/Rata Data.png" width="100%"/>
 </td>
 <td width="70%" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+PROYECTO+EN+PLANIFICACI%C3%93N;%F0%9F%90%80+ANALYTICS+QUE+DESCUBRE+INSIGHTS" alt="Typing SVG" />
